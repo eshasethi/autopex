@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Product</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="mm_health_nutr.css" type="text/css" />
+<script language="JavaScript" type="text/javascript">
+//--------------- LOCALIZEABLE GLOBALS ---------------
+var d=new Date();
+var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+//Ensure correct for language. English is "January 1, 2004"
+var TODAY = monthname[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
+//---------------   END LOCALIZEABLE   ---------------
+</script>
+<style type="text/css">
+<!--
+.style1 {font-size: 24px}
+.style2 {font-size: large}
+.style4 {font-size: small; }
+.style6 {
+	color: #FF3300;
+	font-size: small;
+}
+.style7 {
+	margin-right: 266px;
+}
+.style8 {
+	font-size: x-small;
+}
+.style9 {
+	line-height: 22px;
+	letter-spacing: .2em;
+	font-style: normal;
+	font-variant: normal;
+	font-size: small;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+-->
+</style>
+</head>
+<body bgcolor="#F4FFE4">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr bgcolor="#D5EDB3">
+    <td colspan="2" rowspan="2"><img src="Logo.png" alt="logo" name="logo" width="379" height="90" id="logo" /></td>
+    <td height="50" id="logo" valign="bottom" align="center" nowrap="nowrap">Autopex International </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr bgcolor="#D5EDB3">
+    <td height="51" id="tagline" valign="top" align="center">Manufacturer and Exporter of auto parts </td>
+    <td>&nbsp;</td>
+  </tr>
+
+
+  <tr>
+    <td colspan="4" bgcolor="#5C743D"><img src="mm_spacer.gif" alt="" width="1" height="2" border="0" /></td>
+  </tr>
+
+  <tr>
+    <td colspan="4" bgcolor="#99CC66" background="mm_dashed_line.gif"><img src="mm_dashed_line.gif" alt="line decor" width="4" height="3" border="0" /></td>
+  </tr>
+
+  <tr bgcolor="#99CC66">
+  <td>&nbsp;</td>
+  	<td colspan="3" id="dateformat" height="20"><a href="home%20page.html">HOME</a>&nbsp;&nbsp;::&nbsp;&nbsp;<script language="JavaScript" type="text/javascript">
+      document.write(TODAY);	</script>	</td>
+  </tr>
+
+  <tr>
+    <td colspan="4" bgcolor="#99CC66" background="mm_dashed_line.gif"><img src="mm_dashed_line.gif" alt="line decor" width="4" height="3" border="0" /></td>
+  </tr>
+
+  <tr>
+    <td colspan="4" bgcolor="#5C743D"><img src="mm_spacer.gif" alt="" width="1" height="2" border="0" /></td>
+  </tr>
+ <tr>
+    <td width="382">&nbsp;</td>
+    <td colspan="3" valign="top"><span class="style1"><a href="products.html">
+	Products page</a></span>&nbsp;<br />
+    <table border="0" cellspacing="0" cellpadding="2" class="style7" style="width: 1129px">
+        <tr>
+          <td class="pageName" colspan="3" style="height: 56px"><span class="style1"><a href="javascript:;">B. S. Spring</a><br />
+		  &nbsp;</span><br />		  </td>
+          <td class="pageName" style="height: 56px; width: 1780px">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="320" height="250" rowspan="2" align="center" class="subHeader"><img src="pics/B. S. Spring 1.png" alt="B. S. Spring" width="248" height="400" /></td>
+          <td rowspan="2" style="width: 7px">&nbsp;</td>
+          <td class="style9" style="width: 569px">Manufactured from top quality 
+		  components, this is your best option and inexpensive replacement for 
+		  your rebuild, repair, and maintenance needs.</td>
+          <td class="subHeader" style="width: 1780px"><p>&nbsp;</p>
+          <p class="style2">MODEL</p>
+          <table width="200" border="4" align="center" cellpadding="2" bordercolor="#000000" bgcolor="#FFFFFF" class="style4" style="height: 173px">
+            <tr>
+              <td width="85" class="style8"><h3 class="style6">Name</h3></td>
+              <td width="93"><h3 class="style6">Price</h3></td>
+            </tr>
+            <tr>
+              <td class="style8"><h6 class="style8">V-57-1860</h6></td>
+              <td><h6 class="style8">$0.25</h6></td>
+            </tr>
+            <tr>
+              <td class="style8"><h6 class="style8">NPR-1860</h6></td>
+              <td><h6 class="style8">$0.26</h6></td>
+            </tr>
+            <tr>
+              <td class="style8"><h6 class="style8">V-99-1860</h6></td>
+              <td><h6 class="style8">$0.96</h6></td>
+            </tr>
+            <tr>
+              <td class="style8"><h6 class="style8">NHR-1860</h6></td>
+              <td><h6 class="style8">$0.77</h6></td>
+            </tr>
+            <tr>
+              <td class="style8"><h5 class="style8">1</h5></td>
+              <td><h5 class="style8">$0.35</h5></td>
+            </tr>
+            <tr>
+              <td class="style8"><h5 class="style8">2</h5></td>
+              <td><h5 class="style8">$0.95</h5></td>
+            </tr>
+            <tr>
+              <td class="style8"><h5 class="style8">3</h5></td>
+              <td><h5 class="style8">$0.78</h5></td>
+            </tr>
+            <tr>
+              <td class="style8"><h6 class="style8">4</h6></td>
+              <td><h6 class="style8">$0.46</h6></td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td valign="top" class="bodyText" style="width: 569px"><p>&nbsp;</p>
+			</td>
+          <td valign="top" class="bodyText" style="width: 1780px">&nbsp;</td>
+        </tr>
+      </table>      </td>
+  </tr>
+
+ <tr>
+    <td width="382">&nbsp;</td>
+    <td width="382">&nbsp;</td>
+    <td width="378">&nbsp;</td>
+	<td width="100%">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
